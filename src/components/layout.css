@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #222;
+}
+
+.title {
+  color: red;
+  font-size: 1.5rem;
+  text-transform: capitalize;
+}
+/* big file size */
+/* name collisions */
